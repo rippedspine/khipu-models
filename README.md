@@ -1,0 +1,1 @@
+Khipu Sequelize models.
